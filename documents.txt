@@ -1,0 +1,4 @@
+Azure AI Search is a cloud-based search engine for enterprise-grade semantic and keyword retrieval.
+Cosmos DB is a globally distributed NoSQL database designed for low latency and high scalability.
+Azure AI Foundry helps build and orchestrate LLM pipelines using OpenAI models and Azure tools.
+AKS (Azure Kubernetes Service) is a managed Kubernetes cluster for deploying containers at scale.
